@@ -1,0 +1,20 @@
+{
+  "name": "exercicio-1",
+  "version": "1.0.0",
+  "description": "exercicio vambora",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jooovictor/Exercicios-node-836.git"
+  },
+  "author": "Jhonas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jooovictor/Exercicios-node-836/issues"
+  },
+  "homepage": "https://github.com/jooovictor/Exercicios-node-836#readme"
+}
